@@ -17,6 +17,5 @@ This project demonstrates a simple digital clock that shows the current time in 
 - **JavaScript**: Logic to update and display the time in real-time.
 
 ## How to Run
-1. Clone this repository to your local machine using the following command:
-   ```bash
+1. Clone this repository to your local machine.
 2. Run on Live Server
